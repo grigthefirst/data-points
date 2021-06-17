@@ -49,6 +49,8 @@ Haystack Hub already implements the Questions Answering pipeline via a static in
 
 For the scope of this task, please implement a design area where the user can move around two or more elements. In our context, this could be a retriever and reader which define a QA search pipeline. It would be nice to have if you can connect two elements with a line.
 
+One possible way to implement this feature is the library [react diagrams](https://github.com/projectstorm/react-diagrams). You can also use other options.
+
 You do not have to implement everything from scratch. Please feel free to use available tools and libraries which help you to implement the needed functionality.
 
 Last step is to containerize your application.
