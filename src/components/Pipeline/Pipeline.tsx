@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import ReactFlow, { addEdge, FlowElement, removeElements, updateEdge } from 'react-flow-renderer';
+import ReactFlow, { addEdge, removeElements, updateEdge } from 'react-flow-renderer';
 import styles from './Pipeline.module.css'
 import { Connection, Edge, Elements } from "react-flow-renderer/dist/types";
 

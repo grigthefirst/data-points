@@ -1,3 +1,5 @@
+Run yarn install & yarn run start for to run in developer mode.
+
 # Coding Challenge 
 
 ## Goal
