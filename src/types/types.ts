@@ -4,6 +4,7 @@ export type Reader = {
     id: string;
     label: string;
     model: string;
+    connectedNodes: [{type: 'reader', id: '1231231'},123123]
     nodeType: 'reader';
 }
 
