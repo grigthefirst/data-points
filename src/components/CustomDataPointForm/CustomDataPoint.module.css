@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+}
+
+.errors {
+
+}
+
+.form {
+
+}
+
+.form > input[type=submit] {
+
+}
